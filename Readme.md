@@ -24,12 +24,14 @@ The dataset was divided into training and testing sets. The model was trained on
 ## Results
 
 **Closing Prices Graph**
+![Close_prices](https://github.com/GhoshAnujit/Stock-Price-Model/assets/118505475/888da6f7-4e70-4a0d-b637-0bd16e31bb87)
 
-![Closing_Prices_graph}(Close_prices.png)
+
 
 **Predicted Prices vs. Testing Values**
 
-![Predicted_Prices_Graph}(Predictions.png)
+![Predictions](https://github.com/GhoshAnujit/Stock-Price-Model/assets/118505475/06f0d432-81f5-4f1e-9947-fcc498514ebb)
+
 
 ## Conclusion
 
